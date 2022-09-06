@@ -1,0 +1,24 @@
+  @font-face {
+    font-family: "PP Eiko BlackItalic";
+    src: url("/fonts/PPEiko-BlackItalic.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: "PP Eiko Heavy";
+    src: url("/fonts/PPEiko-Heavy.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: "PP Eiko LightItalic";
+    src: url("/fonts/PPEiko-LightItalic.otf") format("opentype");
+  }
+
+  @font-face {
+    font-family: "PP Eiko";
+    src: url("/fonts/PPEiko-Medium.otf") format("opentype");
+  }
+
+@font-face {
+    font-family: "PP Eiko Thin";
+    src: url("/fonts/PPEiko-Thin.otf") format("opentype");
+  }
